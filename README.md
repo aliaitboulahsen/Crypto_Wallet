@@ -27,3 +27,8 @@ Screenshot of Streamlit application with an ETH payment made to one of the emplo
 Screenshot of Ganache application with block and mining details of the ETH transaction:
 
 ![image](https://user-images.githubusercontent.com/98672852/178151131-b318fc92-9be9-4e0f-985f-393b4ffeb172.png)
+
+Screenshot of account balance:
+
+![image](https://user-images.githubusercontent.com/98672852/178151844-060741cc-25cd-4331-8b77-4860991ba373.png)
+
