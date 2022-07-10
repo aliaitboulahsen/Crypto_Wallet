@@ -18,6 +18,7 @@ We will complete the code that enables your customers to send cryptocurrency pay
 - Bip44 (Wallet) 
 
 The Fintech Finder application will allow to see list of candidates along with their hourly rate. If we decide to hire them we will be able ti input the number of hours worked and make an ether payment through the application directly. All the coding for the account mnemonic, transaction hashing, gas pricing and strategy are coded in the file crypto_wallet.py 
+The Streamlit application code can be found in fintech_finder.py
 
 Screenshot of Streamlit application with an ETH payment made to one of the employees:
 
